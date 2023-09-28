@@ -62,6 +62,7 @@ article div {
 div p {
   max-height: 330px;
   overflow-y: scroll;
+  font-style: italic;
 }
 
 button {
